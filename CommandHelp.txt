@@ -2,3 +2,5 @@ INSERT INTO table_name VALUES (value1, value2) - добавляет данные
 SELECT * FROM table_name - показывает данные из таблицы
 SAVE TABLE table_name - сохраняет данные таблицы в .csv
 DELETE FROM table_name WHERE Key=value
+
+INSERT INTO cars VALUES (Toyota, Camry)
