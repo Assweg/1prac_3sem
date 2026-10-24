@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "Key",
+        "Brand",
+        "Model"
+    ],
+    "name": "cars",
+    "primary_key": "Key",
+    "rows": [
+        [
+            "1",
+            "Toyota",
+            "Camry"
+        ]
+    ]
+}

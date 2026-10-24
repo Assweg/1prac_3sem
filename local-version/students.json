@@ -1,0 +1,10 @@
+{
+    "columns": [
+        "Key",
+        "Surname",
+        "Group"
+    ],
+    "name": "students",
+    "primary_key": "Key",
+    "rows": []
+}
