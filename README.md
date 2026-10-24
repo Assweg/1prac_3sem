@@ -33,4 +33,16 @@ c++ -std=c++17 -pthread main.cpp Table.cpp CommandParser.cpp FileHandler.cpp Has
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+
+## Материалы из локальной папки
+
+Исходники и документы этой работы собраны в этом репозитории.
+
+Локальный вариант отличается от ранее опубликованного кода и сохранён в [local-version](local-version/). Основная версия остаётся в корне. Для запуска локального варианта сначала перейдите в его каталог.
+
+[local-version](local-version/) · [reports](reports/)
+
+### Отчёты и документы
+
+- [Отчет Практика 1 Бутаков НМ АБс-322.docx](reports/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201%20%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9D%D0%9C%20%D0%90%D0%91%D1%81-322.docx)

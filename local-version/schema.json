@@ -1,0 +1,14 @@
+{
+    "tables": [
+      {
+        "name": "cars",
+        "columns": [ "Key", "Brand", "Model" ],
+        "primary_key": "Key"
+      },
+      {
+        "name": "students",
+        "columns": [ "Key", "Surname", "Group" ],
+        "primary_key": "Key"
+      }
+    ]
+  }
